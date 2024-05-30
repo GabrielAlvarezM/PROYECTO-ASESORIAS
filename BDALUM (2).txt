@@ -1,0 +1,4 @@
+ID|Nombre|Carrera|Semestre|Contrasena
+0261445E|Juan Manuel Gonzalez|Ciber|6|password123
+0172114E|Rafael Castellanos Frisbie|Comunicacion|2|juanpepe2004
+0236784E|Paulina Mendez Flores|Finanzas|5|9900almandez

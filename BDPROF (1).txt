@@ -1,0 +1,4 @@
+ID|Nombre|Contrasena
+0255612P|Federica Mirales Morales|contrareal90
+0255613P|Pepe Pepe Zumiga|12345678910
+0255614P|Mariana Rodriguez Ramirez|aminomegustaelpollo
